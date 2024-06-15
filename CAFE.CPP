@@ -310,12 +310,12 @@ int main() {
         cout << "1. Inserir Participante\n";
         cout << "2. Mostrar Participante\n";
         cout << "3. Editar  Participante\n";
-        cout << "4. Ler participantes do arquivo\n";
-        cout << "5. Salvar participantes no arquivo\n";
-        cout << "6. Cadastrar contribuição\n";
+        cout << "4. LER     Participantes do TXT\n";
+        cout << "5. GRAVAR  TXT Participantes\n";
+        cout << "6. Inserir Contribuição\n";
         cout << "7. Mostrar Contribuições\n";
-        cout << "8. Gravar contribuições no  arquivo\n";
-        cout << "9. Gravar contribuições por curso\n";
+        cout << "8. GRAVAR  TXT Contribuições\n";
+        cout << "9. GRAVAR  TXT Contribuições por curso\n";
         cout << "0. Sair\n";
         cout << "ESCOLHA A OPÇÃO DESEJADA: ";
         cin >> opcao;
